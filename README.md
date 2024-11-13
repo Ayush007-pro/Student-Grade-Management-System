@@ -68,7 +68,3 @@ John Doe: 85
 
 - **Invalid Input**: If non-numeric input is entered for grade or menu choice, an error message is displayed.
 - **Non-existent Students**: If a user attempts to update or delete a non-existent student, an appropriate message is shown.
-
----
-
-This README provides a concise overview of the Student Grades Management System, allowing users to understand the functionality and usage of the program quickly.
